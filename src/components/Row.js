@@ -63,6 +63,5 @@ const Row = ({ title, path, isLarge }) => {
     )
        
 }
- //onClick = {() => handleClick(movie)}
-       //   
+  
 export default Row
